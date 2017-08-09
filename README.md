@@ -1,5 +1,5 @@
 # Kaggle-MNIST
-##Testing Different Algorithms for MNIST dataset.
+## Testing Different Algorithms for MNIST dataset.
 This dataset is from Kaggle's MNIST dataset. This was basically an exercise in
 playing with different algorithms and approaches in R, to maximise my score.
 I used:
